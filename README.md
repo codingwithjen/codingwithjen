@@ -1,4 +1,4 @@
-![Jen's GitHub Banner](./assets/header2020.png)
+[![Jen's GitHub Banner](./assets/header2020.png)
 ### Hi there 👋
 
 <!--
