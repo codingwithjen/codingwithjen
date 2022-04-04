@@ -1,10 +1,14 @@
 ![Jen's GitHub Banner](/assets/header2022.png)
 
 ### Hi there, my name is Jen! 👋
-I'm a Software Engineer student enrolled in a bootcamp program. Please connect with me below or follow me on social media to follow me and my journey on breaking into the tech world. My previous experience include a Bachelor's in Business Admin and an Associate's Degree in Economics. I have 4+ years of social media marketing, and 4+ years of real estate, escrow, and title experience. I am currently #OpenToWork! 😁
+I'm a Software Engineer student enrolled in a bootcamp program. Please connect with me below or follow me on social media as I document my journey on breaking into the tech world. My previous experience include a Bachelor's in Business Admin and an Associate's Degree in Economics. I have 4+ years of social media marketing, and 4+ years of real estate, escrow, and title experience. I am currently #OpenToWork! 😁
+- 📫 **How to reach me:** fausto.jennifer@gmail.com
+- 😄 **Pronouns:** her/she
+- ⚡ **Fun fact:** ... I'm a Corgi dog mom who happens to run a social media account for Olly (him). It's to document how obsessed I am with him and to meet other pet-obsessed paw-rents! 😂🐶
+
 <!--
 **codingwithjen/codingwithjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+😂
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
